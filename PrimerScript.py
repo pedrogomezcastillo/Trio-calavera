@@ -1,1 +1,2 @@
-print("Esta es la primera linea del trio calavera")
+print("Esta NO es la segunda línea del trío calavera.")
+print("Esta es una línea más.")
