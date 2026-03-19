@@ -1,1 +1,1 @@
-Esta es la primera linea del trio calavera
+print("Esta es la primera linea del trio calavera")
