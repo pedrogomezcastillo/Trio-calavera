@@ -1,0 +1,1 @@
+print("Esta es la primera linea del trio calavera")
